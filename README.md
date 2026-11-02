@@ -4,10 +4,10 @@ At the center of TheCarve is its crowdsourced data system. The crowdsourcing pro
 
 Some review-worthy sections:
 
-[Official Production Server, Session Management, Co-routined App-Level Event Cycles](backend/server.php)
+[SERVER - Official Production Server, Session Management, Co-routined App-Level Event Cycles](backend/server.php)
 
-[Mathematical models, low-rank matrix factorization, reliability estimation, machine larning](project/classes/Model/)
+[MODEL - Mathematical models, low-rank matrix factorization, reliability estimation, machine larning](project/classes/Model/)
 
-[Main Server-wide Data Processing Methods](project/classes/Repositories/ServerLobbyRepository.php)
+[REPOSITORY - Main Server-wide Data Processing Methods](project/classes/Repositories/ServerLobbyRepository.php)
 
-[Relational Database Schema](project/database/schema.sql)
+[DATABASE - Relational Database Schema](project/database/schema.sql)
